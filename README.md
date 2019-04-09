@@ -1,2 +1,2 @@
 # NLP
-Coursework for Natural Language Processing in Winter 2019
+Coursework for DIGS 30006 Natural Language Processing in Winter 2019
